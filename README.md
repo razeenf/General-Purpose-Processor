@@ -1,5 +1,5 @@
 # General-Purpose-Processor
 
-![Diagram!](Diagram.jpg "Diagram")
+![Diagram!](Diagram.png "Diagram")
 
 
